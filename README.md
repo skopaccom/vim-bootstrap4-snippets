@@ -75,7 +75,7 @@ See <a href="#triggers">Trigger Glossary</a> below for a full list of triggers.
 ### <a name="templates">Templates</a>
 | Snippets       | Descriptions                          |
 | :------------- | :------------------------------------ |
-| cdnb4         | Generates a  CSS & JS from CDN        |
+| cdn-b4        | Generates a  CSS & JS from CDN        |
 | htmlb4        | Generates a  Basic HTML Template      |
 | htmlbl        | Generates a  Blog Template            |
 | htmlca        | Generates a  Carousel Template        |
